@@ -12,7 +12,7 @@ This web application fetches random jokes from the Official Joke API and display
 
 ## Screenshots
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](https://github.com/mirdanish6594/Jokes-generator/assets/screenshot.png)
 
 ## Features
 
