@@ -8,11 +8,11 @@ This web application fetches random jokes from the Official Joke API and display
 
 ## Demo
 
-[Live Demo]( https://mirdanish6594.github.io/Jokes-generator/) - Insert the URL of your live demo here.
+[Live Demo]( https://mirdanish6594.github.io/Jokes-generator/) 
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot](assets/screenshot.png)
 
 ## Features
 
