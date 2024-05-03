@@ -12,7 +12,7 @@ This web application fetches random jokes from the Official Joke API and display
 
 ## Screenshots
 
-![Screenshot](Screenshot.png)
+![Screenshot](../assets/Screenshot.png)
 
 ## Features
 
@@ -22,7 +22,7 @@ This web application fetches random jokes from the Official Joke API and display
 
 ## Installation
 
-1. Clone the repository: - git clone https://github.com/your-username/joke-generator.git
+1. Clone the repository: - git clone https://github.com/mirdanish6594/joke-generator.git
 
 2. Open the index.html file in your web browser.
 
