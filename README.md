@@ -1,1 +1,43 @@
-# Jokes-generator
+# Joke Generator
+
+A simple web application that generates random jokes using the Official Joke API.
+
+## Description
+
+This web application fetches random jokes from the Official Joke API and displays them on the webpage. Users can click a button to generate a new joke.
+
+## Demo
+
+[Live Demo]( https://mirdanish6594.github.io/Jokes-generator/) - Insert the URL of your live demo here.
+
+## Screenshots
+
+![Screenshot 1](screenshot1.png)
+
+## Features
+
+- Generates random jokes from the Official Joke API.
+- Responsive design.
+- Easy-to-use interface.
+
+## Installation
+
+1. Clone the repository: - git clone https://github.com/your-username/joke-generator.git
+
+2. Open the index.html file in your web browser.
+
+## Usage
+
+- Click the "Generate New Joke" button to fetch a new joke.
+- Enjoy the joke displayed on the webpage!
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Credits
+
+- Jokes fetched from the [Official Joke API](https://official-joke-api.appspot.com/).
+
