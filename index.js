@@ -14,10 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 jokeElement.textContent = 'Failed to fetch joke. Please try again later.';
             });
     }
-
-    // Fetch a joke when the page loads
     fetchJoke();
-
-    // Fetch a new joke when the button is clicked
+    
     newJokeButton.addEventListener('click', fetchJoke);
 });
